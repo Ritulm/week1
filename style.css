@@ -1,0 +1,28 @@
+body{
+  background-color: pink;
+}
+h1{
+   text-align:center;
+  color:black;
+  font-size:3em;
+   text-shadow: 1px 1px #ff0000;
+  padding:20px;
+}
+h2{
+  text-align:center;
+}
+p{
+  text-align:center;
+}
+.pakli{
+  color:darkgreen;
+}
+.brazil{
+  color:yellow;
+}
+.Spain{
+  color:red
+}
+#messi{
+  float:middle;
+}
